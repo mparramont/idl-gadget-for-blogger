@@ -1,4 +1,4 @@
-idm-gadget-for-blogger
+idl-gadget-for-blogger
 ======================
 
 Internet Defense League gadget for Blogger
