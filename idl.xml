@@ -2,8 +2,8 @@
 <Module>
   <ModulePrefs title="Join the Internet Defense League!"
     title_url="http://internetdefenseleague.org"
-     height="200"
-     width="300"
+     height="167"
+     width="250"
      author="Miguel Parramon"
      author_email="mparramont@gmail.com"/>
   <Content type="html">
@@ -11,6 +11,8 @@
      <a href="http://internetdefenseleague.org">
        <img
          src="http://internetdefenseleague.org/images/badges/final/super_badge.png"
+         height="167"
+         width="250"
          alt="Member of The Internet Defense League"
        />
      </a>
