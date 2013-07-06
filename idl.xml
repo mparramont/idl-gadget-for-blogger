@@ -7,15 +7,26 @@
      author="Miguel Parramon"
      author_email="mparramont@gmail.com"/>
   <Content type="html">
-     <![CDATA[
-     <a href="http://internetdefenseleague.org">
-       <img
-         src="http://internetdefenseleague.org/images/badges/final/super_badge.png"
-         height="167"
-         width="250"
-         alt="Member of The Internet Defense League"
-       />
-     </a>
+    <![CDATA[
+      <a href="http://internetdefenseleague.org">
+        <img
+           src="http://internetdefenseleague.org/images/badges/final/super_badge.png"
+           height="167"
+           width="250"
+           alt="Member of The Internet Defense League"
+        />
+      </a>
+      <script type="text/javascript">
+        window._idl = {};
+        _idl.variant = "banner";
+        (function() {
+          var idl = document.createElement('script');
+          idl.type = 'text/javascript';
+          idl.async = true;
+          idl.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'members.internetdefenseleague.org/include/?url=' + (_idl.url || '') + '&campaign=' + (_idl.campaign || '') + '&variant=' + (_idl.variant || 'banner');
+          document.getElementsByTagName('body')[0].appendChild(idl);
+        })();
+      </script>
      ]]>
   </Content>
 </Module>
