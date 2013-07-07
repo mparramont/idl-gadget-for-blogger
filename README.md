@@ -1,7 +1,9 @@
 idl-gadget-for-blogger
 ======================
 
-[Internet Defense League](http://internetdefenseleague.org) gadget for [Blogger](http://www.blogger.com).
+[Internet Defense League](http://internetdefenseleague.org) gadget for [Blogger](http://www.blogger.com):
+
+![Example image for IDL gadget for Blogger](http://mparramont.github.io/idl-gadget-for-blogger/example_image.png)
 
 To add the gadget to your Blogger blog:
 
