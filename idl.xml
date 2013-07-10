@@ -8,13 +8,12 @@
      author_email="mparramont@gmail.com"/>
   <Content type="html">
     <![CDATA[
-      <a href="http://internetdefenseleague.org">
+    <a href="http://internetdefenseleague.org" target="_blank">
         <img
            src="http://internetdefenseleague.org/images/badges/final/super_badge.png"
            height="167"
            width="250"
            alt="Member of The Internet Defense League"
-           target="_blank"
         />
       </a>
       <script type="text/javascript">
